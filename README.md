@@ -9,6 +9,7 @@ output: outputs system feedback messages on the screen.
   The executable can be found at bin > Debug > user_password.exe or even building and running the code. User data are: name and password. After 
   typing in a unique ID is assigned to the user. Maximal size of the database: as bigger as how much memory is available. After closing the terminal
   all the data is losen. The code can be further improved according the needs (save the user data in a text file, for instance). Last edited time 2018.
+  It was writen and built in codeblocks, but the scr and inc files can be imported to any other IDEs.
 
 
 # user-password terminal demo
